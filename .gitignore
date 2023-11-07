@@ -1,0 +1,10 @@
+# Ignore the node_modules directory
+/node_modules
+/Currency Converter
+
+# Ignore any built  TypeScript files (JavaScript output)
+/dist
+# Ignore editor/IDE-specific files and directories
+.vscode
+.idea
+.DS_store
